@@ -30,9 +30,9 @@ Random Forest Classifier
 
 Gradient Boosting Classifier
 
-Gradient Boosting Classifier
+Light Gradient Boosting Machine
 
-Calculating feature importance
+Calculate feature importance
 
 Hyperparameter tuning
 
